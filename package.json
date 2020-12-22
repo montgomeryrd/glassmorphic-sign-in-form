@@ -1,0 +1,19 @@
+{
+  "name": "glassmorphic-sign-in-form",
+  "version": "1.0.0",
+  "description": "sign-in-form css design",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montgomeryrd/glassmorphic-sign-in-form.git"
+  },
+  "author": "Richard Montgomery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montgomeryrd/glassmorphic-sign-in-form/issues"
+  },
+  "homepage": "https://github.com/montgomeryrd/glassmorphic-sign-in-form#readme"
+}
